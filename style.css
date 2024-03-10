@@ -14,7 +14,7 @@
 }
 
 @media screen and (max-width:370px){
-    span{
+    footer span{
         font-size:4vmin;
     }
 }
